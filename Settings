@@ -16,8 +16,6 @@
 	"match_brackets_content": false,
 	"match_selection": true,
 	"match_tags": false,
-	"material_theme_accent_graphite": true,
-	"material_theme_compact_sidebar": true,
 	"mini_diff": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": true,
@@ -91,6 +89,5 @@
 		"Anaconda",
 		"BracketHighlighter",
 		"SideBarEnhancements",
-		"Material Theme"
 	],
 }
