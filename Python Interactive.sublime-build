@@ -1,0 +1,7 @@
+{
+	"target": "terminus_open",
+	"cmd": ["C:\\Users\\shiva\\AppData\\Local\\Programs\\Python\\Python38\\python.exe", "-u", "$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"auto_close": false,
+	"selector": "source.python",
+}
