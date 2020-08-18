@@ -25,7 +25,6 @@
 	"match_tags": false,
 	"mini_diff": false,
 	"overlay_scroll_bars": "enabled",
-	"scroll_past_end": false,
 	"show_encoding": true,
 	"show_full_path": false,
 	"spell_check": true,
